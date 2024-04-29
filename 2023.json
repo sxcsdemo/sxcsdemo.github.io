@@ -1,5 +1,5 @@
 {
-    "菜妮丝": "https://sxcsdemo.github.io/",
+    "sxcsdemo": "https://sxcsdemo.github.io/",
     "友情提醒": "接口完全免费，切勿付费购买。",
     "spider": "https://sxcsdemo.github.io/2023.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
@@ -1151,7 +1151,7 @@
         {
             "name": "LIVE",
             "type": 0,
-            "url": "http://www.liuyunw.com:88/zb.txt",
+            "url": "https://sxcsdemo.github.io/2023.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
@@ -1160,7 +1160,7 @@
         {
             "name": "IPv6",
             "type": 0,
-            "url": "http://www.liuyunw.com:88/zb.txt",
+            "url": "https://sxcsdemo.github.io/2023.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
