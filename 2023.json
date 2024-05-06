@@ -5,6 +5,16 @@
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
+      "key": "荐片",
+      "name": "荐片┃P2P",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://sxcsdemo.github.io/lib/jianpian.json",
+      "jar": "https://sxcsdemo.github.io/lib/fm0411.jar;md5;eb9ef1e338ee3b01ef1c1c388841d7bb"
+    },
+    {
       "key": "豆瓣",
       "name": "豆瓣┃影视",
       "type": 3,
@@ -25,16 +35,6 @@
         "token": "影視天下第一",
         "filter": "https://sxcsdemo.github.io/lib/wogg.json"
       },
-      "jar": "https://sxcsdemo.github.io/lib/fm0411.jar;md5;eb9ef1e338ee3b01ef1c1c388841d7bb"
-    },
-    {
-      "key": "荐片",
-      "name": "荐片┃P2P",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://sxcsdemo.github.io/lib/jianpian.json",
       "jar": "https://sxcsdemo.github.io/lib/fm0411.jar;md5;eb9ef1e338ee3b01ef1c1c388841d7bb"
     },
     {
@@ -221,65 +221,6 @@
       "searchable": 0,
       "changeable": 0,
       "jar": "https://sxcsdemo.github.io/lib/fm0411.jar;md5;eb9ef1e338ee3b01ef1c1c388841d7bb"
-    },
-    {
-      "key": "七夜",
-      "name": "七夜┃云盘",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "changeable": 0,
-      "jar": "https://sxcsdemo.github.io/lib/fm0411.jar;md5;eb9ef1e338ee3b01ef1c1c388841d7bb",
-      "ext": "http://127.0.0.1:9978/file/tvbox/9d79968a-ed45-42c5-88eb-9cb2a09157ac/token.txt"
-    },
-    {
-      "key": "易搜",
-      "name": "易搜┃云盘",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "changeable": 0,
-      "jar": "https://sxcsdemo.github.io/lib/fm0411.jar;md5;eb9ef1e338ee3b01ef1c1c388841d7bb",
-      "ext": "http://127.0.0.1:9978/file/tvbox/9d79968a-ed45-42c5-88eb-9cb2a09157ac/token.txt"
-    },
-    {
-      "key": "云搜",
-      "name": "云搜┃云盘",
-      "type": 3,
-      "api": "csp_UpYun",
-      "searchable": 1,
-      "changeable": 0,
-      "jar": "https://sxcsdemo.github.io/lib/fm0411.jar;md5;eb9ef1e338ee3b01ef1c1c388841d7bb",
-      "ext": "http://127.0.0.1:9978/file/tvbox/9d79968a-ed45-42c5-88eb-9cb2a09157ac/token.txt"
-    },
-    {
-      "key": "盘搜",
-      "name": "盘搜┃云盘",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "changeable": 0,
-      "jar": "https://sxcsdemo.github.io/lib/fm0411.jar;md5;eb9ef1e338ee3b01ef1c1c388841d7bb",
-      "ext": "http://127.0.0.1:9978/file/tvbox/9d79968a-ed45-42c5-88eb-9cb2a09157ac/token.txt"
-    },
-    {
-      "key": "紙條搜",
-      "name": "紙條┃云盘",
-      "type": 3,
-      "api": "csp_XiaoZhiTiao",
-      "searchable": 1,
-      "changeable": 0,
-      "jar": "https://sxcsdemo.github.io/lib/fm0411.jar;md5;eb9ef1e338ee3b01ef1c1c388841d7bb"
-    },
-    {
-      "key": "盘搜索",
-      "name": "盘搜索┃云盘",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "changeable": 0,
-      "jar": "https://sxcsdemo.github.io/lib/fm0411.jar;md5;eb9ef1e338ee3b01ef1c1c388841d7bb",
-      "ext": "http://127.0.0.1:9978/file/tvbox/9d79968a-ed45-42c5-88eb-9cb2a09157ac/token.txt"
     },
     {
       "key": "找資源",
