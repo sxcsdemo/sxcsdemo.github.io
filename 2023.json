@@ -285,15 +285,6 @@
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcBEGIRZVnQTs7Kyyk1SScOZ8j/C1ATO/eqjASKwdHWA2zQtjGMwVDA+Ttluew9LCZzZnFyFNWEAlX0KjLdiSaX+NDNVdVG1JjEvnt3n7STfbcZ8C5QA+hYk60bwQH58e7eO7msRAJ0ZbmFDDly40NBDxuYsAq8lZuJzVkw0ZkMhqBM9YRPP8mMU/CJYsuBptunppHVQfFQjk8wxXjVRsNe75CuoY+zt9w+Smcm9PL37bGJHS6+1cFg1xMgqVxqvyPfuq5Dvyo1q66Q1NXwhDe4x21KVg4iRMET6Z3Jna25wcmku6xbznbFxlZqH3DqtpBKXLcNrx6n6vgn+/lHRmp5g13bG1xc/jwO78tZL0Pei6A=="
     },
     {
-      "key": "南坊",
-      "name": "南坊┃影视",
-      "type": 3,
-      "api": "csp_AppMao",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsiwNM6dXSwTArm5em8Lv8ppXgro"
-    },
-    {
       "key": "毛驴",
       "name": "毛驴┃影视",
       "type": 3,
@@ -348,15 +339,6 @@
       "ext": "https://sxcsdemo.github.io/lib/ddys.js"
     },
     {
-      "key": "csp_Nmys",
-      "name": "农民┃影视",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://sxcsdemo.github.io/lib/nmys.json"
-    },
-    {
       "key": "新视觉影院",
       "name": "新视觉┃影视",
       "type": 3,
@@ -376,33 +358,12 @@
       "ext": "https://sxcsdemo.github.io/lib/cokemv.js"
     },
     {
-      "key": "360影视",
-      "name": "360┃解析",
-      "type": 3,
-      "api": "csp_SP360",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "https://sxcsdemo.github.io/lib/xyq1123.jar;md5;71de3509aba374cdec13c22cbcce202f"
-    },
-    {
       "key": "csp_Anime1",
       "name": "日本┃动漫",
       "type": 3,
       "api": "csp_Anime1",
       "searchable": 1,
       "changeable": 1
-    },
-    {
-      "key": "Aid",
-      "name": "🚑急救┃教学",
-      "type": 3,
-      "api": "csp_FirstAid",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 3.8
-      }
     },
     {
       "key": "唐人街影院",
@@ -412,71 +373,6 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "https://sxcsdemo.github.io/lib/唐人街影视[飞].js"
-    },
-    {
-      "key": "兔小贝",
-      "name": "📚儿童┃启蒙",
-      "type": 3,
-      "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "ext": "https://sxcsdemo.github.io/lib/兔小贝.js"
-    },
-    {
-      "key": "儿童",
-      "name": "📚少儿┃教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "ext": "https://sxcsdemo.github.io/lib/哔哩哔哩少儿.json"
-    },
-    {
-      "key": "小学",
-      "name": "📚小学┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "ext": "https://sxcsdemo.github.io/lib/哔哩哔哩小学.json"
-    },
-    {
-      "key": "初中",
-      "name": "📚初中┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "ext": "https://sxcsdemo.github.io/lib/哔哩哔哩初中.json"
-    },
-    {
-      "key": "高中",
-      "name": "📚高中┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "ext": "https://sxcsdemo.github.io/lib/哔哩哔哩高中.json"
     },
     {
       "key": "快看影视",
@@ -558,15 +454,6 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "https://sxcsdemo.github.io/lib/9U电影.js"
-    },
-    {
-      "key": "B站影视",
-      "name": "B站┃影视",
-      "type": 3,
-      "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://sxcsdemo.github.io/lib/B站影视.js"
     },
     {
       "key": "纽约影院",
@@ -744,142 +631,6 @@
       "jar": "https://sxcsdemo.github.io/lib/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
     },
     {
-      "key": "A8音乐",
-      "name": "🎵A8┃MV",
-      "type": 3,
-      "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://sxcsdemo.github.io/lib/A8音乐.js"
-    },
-    {
-      "key": "DJ哟哟音乐网",
-      "name": "🎵DJ哟哟┃音乐",
-      "type": 3,
-      "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://sxcsdemo.github.io/lib/DJ音乐.js"
-    },
-    {
-      "key": "Jango",
-      "name": "🎵Jango┃音乐",
-      "type": 3,
-      "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://sxcsdemo.github.io/lib/JangoIndex.js"
-    },
-    {
-      "key": "啦啦DJ音乐网",
-      "name": "🎵啦啦DJ┃音乐",
-      "type": 3,
-      "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://sxcsdemo.github.io/lib/啦啦DJ.js"
-    },
-    {
-      "key": "MV_vod",
-      "name": "🎵明星┃MV",
-      "type": 1,
-      "api": "https://mv.wogg.link/mv/vod",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "oval"
-      }
-    },
-    {
-      "key": "酷奇MV",
-      "name": "🎵酷奇┃MV",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://sxcsdemo.github.io/lib/酷奇MV.json",
-      "jar": "https://sxcsdemo.github.io/lib/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
-    },
-    {
-      "key": "csp_BBB",
-      "name": "🅱哔哩┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://sxcsdemo.github.io/lib/哔哩哔哩合集.json"
-    },
-    {
-      "key": "csp_戏曲",
-      "name": "🅱哔哩┃戏曲",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://sxcsdemo.github.io/lib/哔哩哔哩戏曲.json"
-    },
-    {
-      "key": "演唱会",
-      "name": "🅱哔哩┃音乐",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://sxcsdemo.github.io/lib/哔哩哔哩音乐.json"
-    },
-    {
-      "key": "JustLive",
-      "name": "Just┃直播",
-      "type": 3,
-      "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://sxcsdemo.github.io/lib/JustLive.js"
-    },
-    {
-      "key": "网红直播",
-      "name": "网红┃直播",
-      "type": 3,
-      "api": "csp_Yj1211",
-      "searchable": 0,
-      "changeable": 0
-    },
-    {
-      "key": "虎牙直播",
-      "name": "虎牙┃直播",
-      "type": 3,
-      "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://sxcsdemo.github.io/lib/虎牙直播.js"
-    },
-    {
-      "key": "斗鱼直播",
-      "name": "斗鱼┃直播",
-      "type": 3,
-      "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://sxcsdemo.github.io/lib/斗鱼直播.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.755
-      }
-    },
-    {
-      "key": "企鹅体育",
-      "name": "企鹅┃体育",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://sxcsdemo.github.io/lib/企鹅体育.json"
-    },
-    {
       "key": "310直播",
       "name": "⚽310┃看球",
       "type": 3,
@@ -887,58 +638,6 @@
       "searchable": 0,
       "changeable": 0,
       "ext": "https://sxcsdemo.github.io/lib/310直播.js"
-    },
-    {
-      "key": "push_agent",
-      "name": "推送┃链接",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 1,
-      "changeable": 0,
-      "jar": "https://sxcsdemo.github.io/lib/fm0411.jar;md5;eb9ef1e338ee3b01ef1c1c388841d7bb",
-      "ext": "http://127.0.0.1:9978/file/tvbox/9d79968a-ed45-42c5-88eb-9cb2a09157ac/token.txt"
-    },
-    {
-      "key": "应用打赏",
-      "name": "应用┃打赏",
-      "type": 3,
-      "api": "csp_Market",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://sxcsdemo.github.io/lib/market.json",
-      "jar": "https://sxcsdemo.github.io/lib/fm0411.jar;md5;eb9ef1e338ee3b01ef1c1c388841d7bb"
-    },
-    {
-      "key": "公告",
-      "name": "——————————",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "changeable": 0
-    },
-    {
-      "key": "说明1",
-      "name": "菜妮丝",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "changeable": 0
-    },
-    {
-      "key": "说明2",
-      "name": "https://菜妮丝.top",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "changeable": 0
-    },
-    {
-      "key": "说明3",
-      "name": "免费接口更新维护",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "changeable": 0
     },
     {
       "key": "说明4",
