@@ -1,6 +1,5 @@
-蓝光,#genre#
-CCTV1,http://39.134.65.141/PLTV/88888888/224/3221225816/index.m3u8
-移动,#genre#
+超清,#genre#
+CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/6/224/3221228213/index.m3u8移动,#genre#
 CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV-3 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
