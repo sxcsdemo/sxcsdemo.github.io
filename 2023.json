@@ -1,10 +1,10 @@
 {
-    "spider": "https://sxcsdemo.github.io/2024.jar;md5;013794cda7f4898b65b8a7f7382cc5a1",
+    "spider": "https://sxcsdemo.github.io/2023.jar;md5;3f392906996ac13aaeb8c91956f95f7f",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "sites": [
         {
-            "key": "èç‰‡",
-            "name": "èç‰‡â”ƒP2P",
+            "key": "¼öÆ¬",
+            "name": "¼öÆ¬©§P2P",
             "type": 3,
             "api": "csp_Jianpian",
             "searchable": 1,
@@ -13,190 +13,190 @@
             "jar": "https://sxcsdemo.github.io/2024.jar;md5;013794cda7f4898b65b8a7f7382cc5a1"
         },
         {
-            "key": "å—ç“œ",
-            "name": "å—ç“œâ”ƒå½±è§†",
+            "key": "ÄÏ¹Ï",
+            "name": "ÄÏ¹Ï©§Ó°ÊÓ",
             "type": 3,
             "api": "csp_NanGua",
             "searchable": 1,
             "changeable": 1
         },
         {
-            "key": "è±†ç“£",
-            "name": "è±†ç“£â”ƒå½±è§†",
+            "key": "¶¹°ê",
+            "name": "¶¹°ê©§Ó°ÊÓ",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
             "changeable": 1,
             "ext": "https://sxcsdemo.github.io/lib/douban.json",
-            "jar": "https://sxcsdemo.github.io/2023.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
+            "jar": "https://sxcsdemo.github.io/2024.jar;md5;013794cda7f4898b65b8a7f7382cc5a1"
         },
         {
-            "key": "ç¨æ’­",
-            "name": "ç¨æ’­",
+            "key": "ªš²¥",
+            "name": "ªš²¥",
             "type": 3,
             "api": "csp_XPathMacFilter",
             "searchable": 1,
             "changeable": 1,
             "ext": "https://sxcsdemo.github.io/lib/duboku.json",
-            "jar": "https://sxcsdemo.github.io/2023.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
+            "jar": "https://sxcsdemo.github.io/2024.jar;md5;013794cda7f4898b65b8a7f7382cc5a1"
         },
         {
             "key": "haiwaikan",
-            "name": "æµ·å¤–çœ‹",
+            "name": "º£Íâ¿´",
             "type": 1,
             "api": "https://haiwaikan.com/api.php/provide/vod",
             "searchable": 1,
             "changeable": 1,
             "categories": [
-                "æ—¥æœ¬åŠ¨æ¼«",
-                "å›½äº§åŠ¨æ¼«",
-                "æ¬§ç¾ŽåŠ¨æ¼«",
-                "å›½äº§å‰§",
-                "éŸ©å‰§",
-                "æ—¥å‰§",
-                "å°å‰§",
-                "æ³°å‰§",
-                "æ¸¯å‰§",
-                "æ¬§ç¾Žå‰§",
-                "åŠ¨ç”»ç”µå½±",
-                "éŸ©å›½ç»¼è‰º",
-                "å›½äº§ç»¼è‰º",
-                "æ—¥æœ¬ç»¼è‰º",
-                "æ¬§ç¾Žç»¼è‰º",
-                "å†’é™©ç‰‡",
-                "å‰§æƒ…ç‰‡",
-                "åŠ¨ä½œç‰‡",
-                "åŒæ€§ç‰‡",
-                "å–œå‰§ç‰‡",
-                "å¥‡å¹»ç‰‡",
-                "ææ€–ç‰‡",
-                "æ‚¬ç–‘ç‰‡",
-                "æƒŠæ‚šç‰‡",
-                "æˆ˜äº‰ç‰‡",
-                "æ­Œèˆžç‰‡",
-                "ç¾éš¾ç‰‡",
-                "çˆ±æƒ…ç‰‡",
-                "çŠ¯ç½ªç‰‡",
-                "ç§‘å¹»ç‰‡",
-                "çºªå½•ç‰‡",
-                "ç»å…¸ç‰‡"
+                "ÈÕ±¾¶¯Âþ",
+                "¹ú²ú¶¯Âþ",
+                "Å·ÃÀ¶¯Âþ",
+                "¹ú²ú¾ç",
+                "º«¾ç",
+                "ÈÕ¾ç",
+                "Ì¨¾ç",
+                "Ì©¾ç",
+                "¸Û¾ç",
+                "Å·ÃÀ¾ç",
+                "¶¯»­µçÓ°",
+                "º«¹ú×ÛÒÕ",
+                "¹ú²ú×ÛÒÕ",
+                "ÈÕ±¾×ÛÒÕ",
+                "Å·ÃÀ×ÛÒÕ",
+                "Ã°ÏÕÆ¬",
+                "¾çÇéÆ¬",
+                "¶¯×÷Æ¬",
+                "Í¬ÐÔÆ¬",
+                "Ï²¾çÆ¬",
+                "Ææ»ÃÆ¬",
+                "¿Ö²ÀÆ¬",
+                "ÐüÒÉÆ¬",
+                "¾ªã¤Æ¬",
+                "Õ½ÕùÆ¬",
+                "¸èÎèÆ¬",
+                "ÔÖÄÑÆ¬",
+                "°®ÇéÆ¬",
+                "·¸×ïÆ¬",
+                "¿Æ»ÃÆ¬",
+                "¼ÍÂ¼Æ¬",
+                "¾­µäÆ¬"
             ]
         },
         {
-            "key": "çŸ­åŠ‡",
-            "name": "çŸ­åŠ‡",
+            "key": "¶Ì„¡",
+            "name": "¶Ì„¡",
             "type": 3,
             "api": "csp_Duanju",
             "searchable": 1,
             "changeable": 0,
-            "jar": "https://sxcsdemo.github.io/2023.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
+            "jar": "https://sxcsdemo.github.io/2024.jar;md5;013794cda7f4898b65b8a7f7382cc5a1"
         },
         {
-            "key": "æ–°6V",
-            "name": "æ–°6Vâ”ƒç£åŠ›",
+            "key": "ÐÂ6V",
+            "name": "ÐÂ6V©§´ÅÁ¦",
             "type": 3,
             "api": "csp_Xb6v",
             "searchable": 1,
             "changeable": 0,
-            "jar": "https://sxcsdemo.github.io/2023.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
+            "jar": "https://sxcsdemo.github.io/2024.jar;md5;013794cda7f4898b65b8a7f7382cc5a1"
         },
         {
-            "key": "æš´é¢¨",
-            "name": "æš´é¢¨",
+            "key": "±©ïL",
+            "name": "±©ïL",
             "type": 1,
             "api": "https://bfzyapi.com/api.php/provide/vod",
             "searchable": 1,
             "changeable": 1
         },
         {
-            "key": "ç´¢å°¼",
-            "name": "ç´¢å°¼â”ƒå½±è§†",
+            "key": "Ë÷Äá",
+            "name": "Ë÷Äá©§Ó°ÊÓ",
             "type": 1,
             "api": "https://suoniapi.com/api.php/provide/vod",
             "searchable": 1,
             "changeable": 1
         },
         {
-            "key": "å¿«å¸†",
-            "name": "å¿«å¸†",
+            "key": "¿ì·«",
+            "name": "¿ì·«",
             "type": 1,
             "api": "https://api.kuaifan.tv/api.php/provide/vod",
             "searchable": 1,
             "changeable": 1
         },
         {
-            "key": "é‡å­",
-            "name": "é‡å­â”ƒå½±è§†",
+            "key": "Á¿×Ó",
+            "name": "Á¿×Ó©§Ó°ÊÓ",
             "type": 1,
             "api": "https://cj.lziapi.com/api.php/provide/vod",
             "searchable": 1,
             "changeable": 1
         },
         {
-            "key": "éžå‡¡",
-            "name": "éžå‡¡â”ƒå½±è§†",
+            "key": "·Ç·²",
+            "name": "·Ç·²©§Ó°ÊÓ",
             "type": 1,
             "api": "http://cj.ffzyapi.com/api.php/provide/vod",
             "searchable": 1,
             "changeable": 1
         },
         {
-            "key": "æ¨±èŠ±",
-            "name": "æ¨±èŠ±â”ƒåŠ¨æ¼«",
+            "key": "Ó£»¨",
+            "name": "Ó£»¨©§¶¯Âþ",
             "type": 3,
             "api": "csp_Ying",
             "searchable": 1,
             "changeable": 1,
-            "jar": "https://sxcsdemo.github.io/2023.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
+            "jar": "https://sxcsdemo.github.io/2024.jar;md5;013794cda7f4898b65b8a7f7382cc5a1"
         },
         {
-            "key": "å·´å£«",
-            "name": "å·´å£«â”ƒåŠ¨æ¼«",
+            "key": "°ÍÊ¿",
+            "name": "°ÍÊ¿©§¶¯Âþ",
             "type": 3,
             "api": "csp_Dm84",
             "searchable": 1,
             "changeable": 1,
-            "jar": "https://sxcsdemo.github.io/2023.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
+            "jar": "https://sxcsdemo.github.io/2024.jar;md5;013794cda7f4898b65b8a7f7382cc5a1"
         },
         {
-            "key": "å¼‚ç•Œ",
-            "name": "å¼‚ç•Œâ”ƒåŠ¨æ¼«",
+            "key": "Òì½ç",
+            "name": "Òì½ç©§¶¯Âþ",
             "type": 3,
             "api": "csp_Ysj",
             "searchable": 1,
             "changeable": 1,
-            "jar": "https://sxcsdemo.github.io/2023.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
+            "jar": "https://sxcsdemo.github.io/2024.jar;md5;013794cda7f4898b65b8a7f7382cc5a1"
         },
         {
-            "key": "æ‰¾è³‡æº",
-            "name": "æ‰¾è³‡æº",
+            "key": "ÕÒÙYÔ´",
+            "name": "ÕÒÙYÔ´",
             "type": 3,
             "api": "csp_Zhaozy",
             "searchable": 1,
             "changeable": 0,
-            "ext": "å½±è¦–å¤©ä¸‹ç¬¬ä¸€$$$test2$$$test2",
-            "jar": "https://sxcsdemo.github.io/2023.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
+            "ext": "Ó°Ò•ÌìÏÂµÚÒ»$$$test2$$$test2",
+            "jar": "https://sxcsdemo.github.io/2024.jar;md5;013794cda7f4898b65b8a7f7382cc5a1"
         },
         {
-            "key": "åŽ‚é•¿èµ„æº",
-            "name": "åŽ‚é•¿â”ƒå½±è§†",
+            "key": "³§³¤×ÊÔ´",
+            "name": "³§³¤©§Ó°ÊÓ",
             "type": 3,
             "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://sxcsdemo.github.io/lib/åŽ‚é•¿èµ„æº.js"
+            "ext": "https://sxcsdemo.github.io/lib/³§³¤×ÊÔ´.js"
         },
         {
-            "key": "é²²å¨±ä¸ƒä¸ƒ",
-            "name": "ä¸ƒä¸ƒâ”ƒå½±è§†",
+            "key": "öïÓéÆßÆß",
+            "name": "ÆßÆß©§Ó°ÊÓ",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
             "changeable": 1
         },
         {
-            "key": "å˜¿å˜¿",
-            "name": "å˜¿å˜¿â”ƒå½±è§†",
+            "key": "ºÙºÙ",
+            "name": "ºÙºÙ©§Ó°ÊÓ",
             "type": 3,
             "api": "csp_AppMao",
             "searchable": 1,
@@ -204,8 +204,8 @@
             "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcBEGIRZVnQTs7Kyyk1SScOZ8j/C1ATO/eqjASKwdHWA2zQtjGMwVDA+Ttluew9LCZzZnFyFNWEAlX0KjLdiSaX+NDNVdVG1JjEvnt3n7STfbcZ8C5QA+hYk60bwQH58e7eO7msRAJ0ZbmFDDly40NBDxuYsAq8lZuJzVkw0ZkMhqBM9YRPP8mMU/CJYsuBptunppHVQfFQjk8wxXjVRsNe75CuoY+zt9w+Smcm9PL37bGJHS6+1cFg1xMgqVxqvyPfuq5Dvyo1q66Q1NXwhDe4x21KVg4iRMET6Z3Jna25wcmku6xbznbFxlZqH3DqtpBKXLcNrx6n6vgn+/lHRmp5g13bG1xc/jwO78tZL0Pei6A=="
         },
         {
-            "key": "æ¯›é©´",
-            "name": "æ¯›é©´â”ƒå½±è§†",
+            "key": "Ã«Â¿",
+            "name": "Ã«Â¿©§Ó°ÊÓ",
             "type": 3,
             "api": "csp_MLYS",
             "searchable": 1,
@@ -213,8 +213,8 @@
             "ext": "https://www.maolvys.com/"
         },
         {
-            "key": "Aueteå½±è§†",
-            "name": "Aueteâ”ƒå½±è§†",
+            "key": "AueteÓ°ÊÓ",
+            "name": "Auete©§Ó°ÊÓ",
             "type": 3,
             "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
             "searchable": 1,
@@ -222,8 +222,8 @@
             "ext": "https://sxcsdemo.github.io/lib/Auete.js"
         },
         {
-            "key": "è¿ªè¿ª",
-            "name": "è¿ªè¿ªâ”ƒå½±è§†",
+            "key": "µÏµÏ",
+            "name": "µÏµÏ©§Ó°ÊÓ",
             "api": "csp_AppYsV2",
             "type": 3,
             "searchable": 1,
@@ -231,17 +231,17 @@
             "ext": "https://api123.adys.app/xgapp.php/v3/"
         },
         {
-            "key": "ä¸¤ä¸ªBT",
-            "name": "ä¸¤ä¸ªBTâ”ƒå½±è§†",
+            "key": "Á½¸öBT",
+            "name": "Á½¸öBT©§Ó°ÊÓ",
             "type": 3,
             "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://sxcsdemo.github.io/lib/ä¸¤ä¸ªBT.js"
+            "ext": "https://sxcsdemo.github.io/lib/Á½¸öBT.js"
         },
         {
             "key": "Lib",
-            "name": "LIBVIOâ”ƒå½±è§†",
+            "name": "LIBVIO©§Ó°ÊÓ",
             "type": 3,
             "api": "csp_Libvio",
             "searchable": 1,
@@ -249,8 +249,8 @@
             "ext": "https://www.libvio.pro/"
         },
         {
-            "key": "ä½Žç«¯å½±è§†",
-            "name": "ä½Žç«¯â”ƒå½±è§†",
+            "key": "µÍ¶ËÓ°ÊÓ",
+            "name": "µÍ¶Ë©§Ó°ÊÓ",
             "type": 3,
             "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
             "searchable": 1,
@@ -258,18 +258,18 @@
             "ext": "https://sxcsdemo.github.io/lib/ddys.js"
         },
         {
-            "key": "æ–°è§†è§‰å½±é™¢",
-            "name": "æ–°è§†è§‰â”ƒå½±è§†",
+            "key": "ÐÂÊÓ¾õÓ°Ôº",
+            "name": "ÐÂÊÓ¾õ©§Ó°ÊÓ",
             "type": 3,
             "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "ext": "https://sxcsdemo.github.io/lib/æ–°è§†è§‰å½±è§†.js"
+            "ext": "https://sxcsdemo.github.io/lib/ÐÂÊÓ¾õÓ°ÊÓ.js"
         },
         {
             "key": "COKEMV",
-            "name": "COKEMVâ”ƒå½±è§†",
+            "name": "COKEMV©§Ó°ÊÓ",
             "type": 3,
             "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
             "searchable": 1,
@@ -278,33 +278,33 @@
         },
         {
             "key": "csp_Anime1",
-            "name": "æ—¥æœ¬â”ƒåŠ¨æ¼«",
+            "name": "ÈÕ±¾©§¶¯Âþ",
             "type": 3,
             "api": "csp_Anime1",
             "searchable": 1,
             "changeable": 1
         },
         {
-            "key": "å¿«çœ‹å½±è§†",
-            "name": "å¿«çœ‹â”ƒå½±è§†",
+            "key": "¿ì¿´Ó°ÊÓ",
+            "name": "¿ì¿´©§Ó°ÊÓ",
             "type": 3,
             "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://sxcsdemo.github.io/lib/å¿«çœ‹.js"
+            "ext": "https://sxcsdemo.github.io/lib/¿ì¿´.js"
         },
         {
-            "key": "ç£åŠ›ç†Š",
-            "name": "ç†Šâ”ƒç£åŠ›",
+            "key": "´ÅÁ¦ÐÜ",
+            "name": "ÐÜ©§´ÅÁ¦",
             "type": 3,
             "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
             "searchable": 1,
             "changeable": 0,
-            "ext": "https://sxcsdemo.github.io/lib/ç£åŠ›ç†Š[ç£].js"
+            "ext": "https://sxcsdemo.github.io/lib/´ÅÁ¦ÐÜ[´Å].js"
         },
         {
             "key": "VOFLIX",
-            "name": "VOFLIXâ”ƒå½±è§†",
+            "name": "VOFLIX©§Ó°ÊÓ",
             "type": 3,
             "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
             "searchable": 1,
@@ -312,80 +312,80 @@
             "ext": "https://sxcsdemo.github.io/lib/voflix.js"
         },
         {
-            "key": "é›¶é›¶ä¸ƒå½±è§†",
-            "name": "é›¶é›¶ä¸ƒâ”ƒå½±è§†",
+            "key": "ÁãÁãÆßÓ°ÊÓ",
+            "name": "ÁãÁãÆß©§Ó°ÊÓ",
             "type": 3,
             "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://sxcsdemo.github.io/lib/007å½±è§†.js"
+            "ext": "https://sxcsdemo.github.io/lib/007Ó°ÊÓ.js"
         },
         {
-            "key": "139å½±è§†",
-            "name": "139â”ƒå½±è§†",
+            "key": "139Ó°ÊÓ",
+            "name": "139©§Ó°ÊÓ",
             "type": 3,
             "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://sxcsdemo.github.io/lib/139å½±è§†.js"
+            "ext": "https://sxcsdemo.github.io/lib/139Ó°ÊÓ.js"
         },
         {
-            "key": "348ç”µå½±ç½‘",
-            "name": "348â”ƒå½±è§†",
+            "key": "348µçÓ°Íø",
+            "name": "348©§Ó°ÊÓ",
             "type": 3,
             "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://sxcsdemo.github.io/lib/348ç”µå½±ç½‘.js"
+            "ext": "https://sxcsdemo.github.io/lib/348µçÓ°Íø.js"
         },
         {
-            "key": "4Kç”µå½±ç½‘",
-            "name": "4Kâ”ƒå½±è§†",
+            "key": "4KµçÓ°Íø",
+            "name": "4K©§Ó°ÊÓ",
             "type": 3,
             "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://sxcsdemo.github.io/lib/4Kç”µå½±ç½‘.js"
+            "ext": "https://sxcsdemo.github.io/lib/4KµçÓ°Íø.js"
         },
         {
-            "key": "69ç¾Žå‰§",
-            "name": "69â”ƒå½±è§†",
+            "key": "69ÃÀ¾ç",
+            "name": "69©§Ó°ÊÓ",
             "type": 3,
             "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://sxcsdemo.github.io/lib/69ç¾Žå‰§[V2].js"
+            "ext": "https://sxcsdemo.github.io/lib/69ÃÀ¾ç[V2].js"
         },
         {
-            "key": "9uç”µå½±",
-            "name": "9uâ”ƒå½±è§†",
+            "key": "9uµçÓ°",
+            "name": "9u©§Ó°ÊÓ",
             "type": 3,
             "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://sxcsdemo.github.io/lib/9Uç”µå½±.js"
+            "ext": "https://sxcsdemo.github.io/lib/9UµçÓ°.js"
         },
         {
-            "key": "çº½çº¦å½±é™¢",
-            "name": "çº½çº¦â”ƒå½±è§†",
+            "key": "Å¦Ô¼Ó°Ôº",
+            "name": "Å¦Ô¼©§Ó°ÊÓ",
             "type": 3,
             "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://sxcsdemo.github.io/lib/NYå½±é™¢.js"
+            "ext": "https://sxcsdemo.github.io/lib/NYÓ°Ôº.js"
         },
         {
-            "key": "TVBäº‘æ’­",
-            "name": "TVBâ”ƒå½±è§†",
+            "key": "TVBÔÆ²¥",
+            "name": "TVB©§Ó°ÊÓ",
             "type": 3,
             "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://sxcsdemo.github.io/lib/TVBäº‘æ’­.js"
+            "ext": "https://sxcsdemo.github.io/lib/TVBÔÆ²¥.js"
         },
         {
-            "key": "101å½±é™¢",
-            "name": "101â”ƒå½±è§†",
+            "key": "101Ó°Ôº",
+            "name": "101©§Ó°ÊÓ",
             "type": 3,
             "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
             "searchable": 1,
@@ -393,126 +393,126 @@
             "ext": "https://sxcsdemo.github.io/lib/l0l.js"
         },
         {
-            "key": "ä¸‡åšå‰§é™¢",
-            "name": "ä¸‡åšâ”ƒå½±è§†",
+            "key": "Íò²©¾çÔº",
+            "name": "Íò²©©§Ó°ÊÓ",
             "type": 3,
             "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://sxcsdemo.github.io/lib/ä¸‡åšå‰§é™¢.js"
+            "ext": "https://sxcsdemo.github.io/lib/Íò²©¾çÔº.js"
         },
         {
-            "key": "ä¹é±¼å½±è§†",
-            "name": "ä¹é±¼â”ƒå½±è§†",
+            "key": "ÀÖÓãÓ°ÊÓ",
+            "name": "ÀÖÓã©§Ó°ÊÓ",
             "type": 3,
             "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://sxcsdemo.github.io/lib/ä¹é±¼å½±è§†.js"
+            "ext": "https://sxcsdemo.github.io/lib/ÀÖÓãÓ°ÊÓ.js"
         },
         {
-            "key": "å…„å¼Ÿå½±è§†",
-            "name": "å…„å¼Ÿâ”ƒå½±è§†",
+            "key": "ÐÖµÜÓ°ÊÓ",
+            "name": "ÐÖµÜ©§Ó°ÊÓ",
             "type": 3,
             "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://sxcsdemo.github.io/lib/å…„å¼Ÿå½±è§†.js"
+            "ext": "https://sxcsdemo.github.io/lib/ÐÖµÜÓ°ÊÓ.js"
         },
         {
-            "key": "å…è´¹çœ‹å½±è§†",
-            "name": "å…è´¹çœ‹â”ƒå½±è§†",
+            "key": "Ãâ·Ñ¿´Ó°ÊÓ",
+            "name": "Ãâ·Ñ¿´©§Ó°ÊÓ",
             "type": 3,
             "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://sxcsdemo.github.io/lib/å…è´¹çœ‹.js"
+            "ext": "https://sxcsdemo.github.io/lib/Ãâ·Ñ¿´.js"
         },
         {
-            "key": "å…­åº¦TV",
-            "name": "å…­åº¦â”ƒå½±è§†",
+            "key": "Áù¶ÈTV",
+            "name": "Áù¶È©§Ó°ÊÓ",
             "type": 3,
             "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://sxcsdemo.github.io/lib/å…­åº¦TV.js"
+            "ext": "https://sxcsdemo.github.io/lib/Áù¶ÈTV.js"
         },
         {
-            "key": "å…°èŠ±å½±é™¢",
-            "name": "å…°èŠ±â”ƒå½±è§†",
+            "key": "À¼»¨Ó°Ôº",
+            "name": "À¼»¨©§Ó°ÊÓ",
             "type": 3,
             "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://sxcsdemo.github.io/lib/å…°èŠ±å½±é™¢.js"
+            "ext": "https://sxcsdemo.github.io/lib/À¼»¨Ó°Ôº.js"
         },
         {
-            "key": "å‡Œäº‘å½±è§†",
-            "name": "å‡Œäº‘â”ƒå½±è§†",
+            "key": "ÁèÔÆÓ°ÊÓ",
+            "name": "ÁèÔÆ©§Ó°ÊÓ",
             "type": 3,
             "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://sxcsdemo.github.io/lib/å‡Œäº‘å½±è§†.js"
+            "ext": "https://sxcsdemo.github.io/lib/ÁèÔÆÓ°ÊÓ.js"
         },
         {
-            "key": "åŒ—å·å½±è§†",
-            "name": "åŒ—å·â”ƒå½±è§†",
+            "key": "±±´¨Ó°ÊÓ",
+            "name": "±±´¨©§Ó°ÊÓ",
             "type": 3,
             "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://sxcsdemo.github.io/lib/åŒ—å·å½±è§†.js"
+            "ext": "https://sxcsdemo.github.io/lib/±±´¨Ó°ÊÓ.js"
         },
         {
-            "key": "åŽ»çœ‹å§",
-            "name": "åŽ»çœ‹å§â”ƒå½±è§†",
+            "key": "È¥¿´°É",
+            "name": "È¥¿´°É©§Ó°ÊÓ",
             "type": 3,
             "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://sxcsdemo.github.io/lib/åŽ»çœ‹å§.js"
+            "ext": "https://sxcsdemo.github.io/lib/È¥¿´°É.js"
         },
         {
-            "key": "å’•å™œ[V2]",
-            "name": "å’•å™œâ”ƒå½±è§†",
+            "key": "¹¾àà[V2]",
+            "name": "¹¾àà©§Ó°ÊÓ",
             "type": 3,
             "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://sxcsdemo.github.io/lib/å’•å™œ[V2].js"
+            "ext": "https://sxcsdemo.github.io/lib/¹¾àà[V2].js"
         },
         {
-            "key": "å˜¶å“©å˜¶å“©",
-            "name": "å˜¶å“©â”ƒåŠ¨æ¼«",
+            "key": "Ë»Á¨Ë»Á¨",
+            "name": "Ë»Á¨©§¶¯Âþ",
             "type": 3,
             "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://sxcsdemo.github.io/lib/å˜¶å“©å˜¶å“©.js"
+            "ext": "https://sxcsdemo.github.io/lib/Ë»Á¨Ë»Á¨.js"
         },
         {
-            "key": "å¼å¼",
-            "name": "å¼å¼â”ƒå½±è§†",
+            "key": "ºðºð",
+            "name": "ºðºð©§Ó°ÊÓ",
             "type": 3,
             "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://sxcsdemo.github.io/lib/å¼å¼[é£ž].js"
+            "ext": "https://sxcsdemo.github.io/lib/ºðºð[·É].js"
         },
         {
-            "key": "å®¿å‘½å½±è§†",
-            "name": "å®¿å‘½â”ƒå½±è§†",
+            "key": "ËÞÃüÓ°ÊÓ",
+            "name": "ËÞÃü©§Ó°ÊÓ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://sxcsdemo.github.io/lib/å®¿å‘½å½±è§†.json",
+            "ext": "https://sxcsdemo.github.io/lib/ËÞÃüÓ°ÊÓ.json",
             "jar": "https://sxcsdemo.github.io/lib/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
         },
         {
             "key": "NikeTV",
-            "name": "NikeTVâ”ƒå½±è§†",
+            "name": "NikeTV©§Ó°ÊÓ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -521,100 +521,100 @@
             "jar": "https://sxcsdemo.github.io/lib/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
         },
         {
-            "key": "APPå½±é™¢",
-            "name": "APPâ”ƒå½±è§†",
+            "key": "APPÓ°Ôº",
+            "name": "APP©§Ó°ÊÓ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://sxcsdemo.github.io/lib/APPå½±é™¢.json",
+            "ext": "https://sxcsdemo.github.io/lib/APPÓ°Ôº.json",
             "jar": "https://sxcsdemo.github.io/lib/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
         },
         {
-            "key": "52çœ‹å‰§",
-            "name": "52â”ƒå½±è§†",
+            "key": "52¿´¾ç",
+            "name": "52©§Ó°ÊÓ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://sxcsdemo.github.io/lib/52çœ‹å‰§.json",
+            "ext": "https://sxcsdemo.github.io/lib/52¿´¾ç.json",
             "jar": "https://sxcsdemo.github.io/lib/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
         },
 {
-    "key": "é»‘ç‹",
-    "name": "é»‘ç‹â”ƒå½±è§†",
+    "key": "ºÚºü",
+    "name": "ºÚºü©§Ó°ÊÓ",
     "type": 3,
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 1,
     "playerType": "2",
     "api": "csp_XBPQ",
-    "ext": { "ç«™å": "é»‘ç‹å½±é™¢",
-        "ä¸»é¡µurl": "http://fagmn.com",
-        "æ•°ç»„": "class=\"stui-vodlist__box\"&&&&",
-        "æœç´¢url": "http://fagmn.com/search.php;post;searchword={wd}",
-        "æœç´¢æ¨¡å¼": "1", "æœç´¢æ•°ç»„": "", "æœç´¢å›¾ç‰‡": "data-original=\"&&\"",
-        "æœç´¢æ ‡é¢˜": "title=\"&&\"", "æœç´¢é“¾æŽ¥": "href=\"&&\"",
-        "æœç´¢å‰¯æ ‡é¢˜": "&&", "æœç´¢åŽç¼€": "/view/",
-        "çº¿è·¯æ•°ç»„": "href=\"#down&&/a>[æ›¿æ¢:å¥‡å¼‚è§†é¢‘>>é»‘ç‹ä¸€çº¿#ä¼˜é…·è§†é¢‘>>é»‘ç‹äºŒçº¿#æœç‹è§†é¢‘>>é»‘ç‹ä¸‰çº¿#å’ªå’•è§†é¢‘>>é»‘ç‹å››çº¿]",
-        "çº¿è·¯æ ‡é¢˜": ">&&<",
-        "æ’­æ”¾æ•°ç»„": "class=\"stui-content__playlist clearfix&&",
-        "çŠ¶æ€": "åœ°åŒºï¼š&&", "å¯¼æ¼”": "å¯¼æ¼”ï¼š&&", "ä¸»æ¼”": "ä¸»æ¼”ï¼š&&",
-        "ç®€ä»‹": "ç®€ä»‹ï¼š&&", "æ’­æ”¾åˆ—è¡¨": "", "æ’­æ”¾æ ‡é¢˜": ">&&<", "æ’­æ”¾é“¾æŽ¥": "href=\"&&\"",
-        "å…å—…": "0", "åˆ†ç±»": "ç”µå½±$1#ç”µè§†å‰§$2#åŠ¨æ¼«$3#ç»¼è‰º$4",
-        "åˆ†ç±»url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time" }
+    "ext": { "Õ¾Ãû": "ºÚºüÓ°Ôº",
+        "Ö÷Ò³url": "http://fagmn.com",
+        "Êý×é": "class=\"stui-vodlist__box\"&&&&",
+        "ËÑË÷url": "http://fagmn.com/search.php;post;searchword={wd}",
+        "ËÑË÷Ä£Ê½": "1", "ËÑË÷Êý×é": "", "ËÑË÷Í¼Æ¬": "data-original=\"&&\"",
+        "ËÑË÷±êÌâ": "title=\"&&\"", "ËÑË÷Á´½Ó": "href=\"&&\"",
+        "ËÑË÷¸±±êÌâ": "&&", "ËÑË÷ºó×º": "/view/",
+        "ÏßÂ·Êý×é": "href=\"#down&&/a>[Ìæ»»:ÆæÒìÊÓÆµ>>ºÚºüÒ»Ïß#ÓÅ¿áÊÓÆµ>>ºÚºü¶þÏß#ËÑºüÊÓÆµ>>ºÚºüÈýÏß#ßä¹¾ÊÓÆµ>>ºÚºüËÄÏß]",
+        "ÏßÂ·±êÌâ": ">&&<",
+        "²¥·ÅÊý×é": "class=\"stui-content__playlist clearfix&&",
+        "×´Ì¬": "µØÇø£º&&", "µ¼ÑÝ": "µ¼ÑÝ£º&&", "Ö÷ÑÝ": "Ö÷ÑÝ£º&&",
+        "¼ò½é": "¼ò½é£º&&", "²¥·ÅÁÐ±í": "", "²¥·Å±êÌâ": ">&&<", "²¥·ÅÁ´½Ó": "href=\"&&\"",
+        "ÃâÐá": "0", "·ÖÀà": "µçÓ°$1#µçÊÓ¾ç$2#¶¯Âþ$3#×ÛÒÕ$4",
+        "·ÖÀàurl": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time" }
 },
         {
             "key": "csp_Nbys",
-            "name": "ðŸ›«æ³¥å·´â”ƒæµ·å¤–",
+            "name": "??Äà°Í©§º£Íâ",
             "type": 3,
             "api": "csp_NiNi",
             "searchable": 1,
             "changeable": 1,
-            "jar": "https://sxcsdemo.github.io/2023.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
+            "jar": "https://sxcsdemo.github.io/2024.jar;md5;013794cda7f4898b65b8a7f7382cc5a1"
         },
         {
-            "key": "å”äººè¡—å½±é™¢",
-            "name": "ðŸ›«å”äººè¡—â”ƒæµ·å¤–",
+            "key": "ÌÆÈË½ÖÓ°Ôº",
+            "name": "??ÌÆÈË½Ö©§º£Íâ",
             "type": 3,
             "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://sxcsdemo.github.io/lib/å”äººè¡—å½±è§†[é£ž].js"
+            "ext": "https://sxcsdemo.github.io/lib/ÌÆÈË½ÖÓ°ÊÓ[·É].js"
         },
         {
-            "key": "æ˜Ÿæ˜Ÿ",
-            "name": "ðŸ›«æ˜Ÿæ˜Ÿâ”ƒæµ·å¤–",
+            "key": "ÐÇÐÇ",
+            "name": "??ÐÇÐÇ©§º£Íâ",
             "type": 3,
             "api": "csp_Star",
             "searchable": 1,
             "changeable": 1,
-            "jar": "https://sxcsdemo.github.io/2023.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
+            "jar": "https://sxcsdemo.github.io/2024.jar;md5;013794cda7f4898b65b8a7f7382cc5a1"
         }
     ],
     "parses": [
         {
-            "name": "è§£æžèšåˆ",
+            "name": "½âÎö¾ÛºÏ",
             "type": 3,
             "url": "Web"
         },
-       { "name": "è‚¥çŒ«æ’­æ”¾å™¨",
+       { "name": "·ÊÃ¨²¥·ÅÆ÷",
            "type": 1,
            "url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=",
-           "ext": { "flag": [ "qq", "è…¾è®¯", "qiyi", "çˆ±å¥‡è‰º", "å¥‡è‰º", "youku", "ä¼˜é…·", "tucheng", "sohu", "æœç‹", "letv", "ä¹è§†", "mgtv", "èŠ’æžœ", "tnmb", "seven", "yzm", "aliyun", "RJuMao", "bilibili", "1905", "xinvip", "XAL", "qiqi", "XALS", "YuMi-vip" ] }
+           "ext": { "flag": [ "qq", "ÌÚÑ¶", "qiyi", "°®ÆæÒÕ", "ÆæÒÕ", "youku", "ÓÅ¿á", "tucheng", "sohu", "ËÑºü", "letv", "ÀÖÊÓ", "mgtv", "Ã¢¹û", "tnmb", "seven", "yzm", "aliyun", "RJuMao", "bilibili", "1905", "xinvip", "XAL", "qiqi", "XALS", "YuMi-vip" ] }
        },
-        {"name":"éº’éºŸæ’­æ”¾å™¨",
+        {"name":"÷è÷ë²¥·ÅÆ÷",
         "type":0,
         "url":"https://jx.quankan.app/?url=",
         "ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
         },
         {
-            "name": "äº‘è§£æž",
+            "name": "ÔÆ½âÎö",
             "type": 0,
             "url": "https://jx.yparse.com/index.php?url="
         },
         {
-            "name": "è™¾ç±³è§£æž",
+            "name": "ÏºÃ×½âÎö",
             "type": 0,
             "url": "https://jx.xmflv.com/?url="
         }
@@ -696,4 +696,4 @@
             "playerType": 1
         }
     ]
-}
+}                                                                                                                                                                                        
