@@ -101,18 +101,6 @@
             "jar": "https://sxcsdemo.github.io/2023.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
         },
         {
-            "key": "🏀看球",
-            "name": "看球",
-            "type": 3,
-            "api": "csp_Kanqiu",
-            "searchable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list"
-            },
-            "jar": "https://sxcsdemo.github.io/2023.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
-        },
-        {
             "key": "暴風",
             "name": "暴風",
             "type": 1,
@@ -186,25 +174,7 @@
             "api": "csp_Zhaozy",
             "searchable": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvbox/9d79968a-ed45-42c5-88eb-9cb2a09157ac/token.txt",
-            "jar": "https://sxcsdemo.github.io/2023.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
-        },
-        {
-            "key": "csp_Nbys",
-            "name": "🛫泥巴┃海外",
-            "type": 3,
-            "api": "csp_NiNi",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "https://sxcsdemo.github.io/2023.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
-        },
-        {
-            "key": "星星",
-            "name": "🛫星星┃海外",
-            "type": 3,
-            "api": "csp_Star",
-            "searchable": 1,
-            "changeable": 1,
+            "ext": "影視天下第一$$$test2$$$test2",
             "jar": "https://sxcsdemo.github.io/2023.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
         },
         {
@@ -313,15 +283,6 @@
             "api": "csp_Anime1",
             "searchable": 1,
             "changeable": 1
-        },
-        {
-            "key": "唐人街影院",
-            "name": "🛫唐人街┃海外",
-            "type": 3,
-            "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://sxcsdemo.github.io/lib/唐人街影视[飞].js"
         },
         {
             "key": "快看影视",
@@ -604,12 +565,31 @@
         "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time" }
 },
         {
-            "key": "说明4",
-            "name": "请勿相信视频中任何广告",
+            "key": "csp_Nbys",
+            "name": "🛫泥巴┃海外",
             "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "changeable": 0
+            "api": "csp_NiNi",
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "https://sxcsdemo.github.io/2023.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
+        },
+        {
+            "key": "唐人街影院",
+            "name": "🛫唐人街┃海外",
+            "type": 3,
+            "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://sxcsdemo.github.io/lib/唐人街影视[飞].js"
+        },
+        {
+            "key": "星星",
+            "name": "🛫星星┃海外",
+            "type": 3,
+            "api": "csp_Star",
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "https://sxcsdemo.github.io/2023.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
         }
     ],
     "parses": [
