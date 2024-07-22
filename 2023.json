@@ -13,6 +13,14 @@
             "jar": "https://sxcsdemo.github.io/2023.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
         },
         {
+            "key": "南瓜",
+            "name": "南瓜┃影视",
+            "type": 3,
+            "api": "csp_NanGua",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "豆瓣",
             "name": "豆瓣┃影视",
             "type": 3,
@@ -20,19 +28,6 @@
             "searchable": 0,
             "changeable": 1,
             "ext": "https://sxcsdemo.github.io/lib/douban.json",
-            "jar": "https://sxcsdemo.github.io/2023.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
-        },
-        {
-            "key": "玩偶",
-            "name": "玩偶┃云盘",
-            "type": 3,
-            "api": "csp_Wogg",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "token": "影視天下第一",
-                "filter": "https://sxcsdemo.github.io/lib/wogg.json"
-            },
             "jar": "https://sxcsdemo.github.io/2023.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
         },
         {
@@ -185,42 +180,6 @@
             "jar": "https://sxcsdemo.github.io/2023.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
         },
         {
-            "key": "哔哩哔哩",
-            "name": "哔哩┃哔哩",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            },
-            "ext": {
-                "json": "https://sxcsdemo.github.io/lib/bili.json",
-                "type": "帕梅拉#太极拳#广场舞#演唱会",
-                "cookie": ""
-            },
-            "jar": "https://sxcsdemo.github.io/2023.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
-        },
-        {
-            "key": "酷狗",
-            "name": "🎵酷狗┃音乐",
-            "type": 3,
-            "api": "csp_Kugou",
-            "searchable": 0,
-            "changeable": 0,
-            "jar": "https://sxcsdemo.github.io/2023.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
-        },
-        {
-            "key": "本地",
-            "name": "本地┃文件",
-            "type": 3,
-            "api": "csp_Local",
-            "searchable": 0,
-            "changeable": 0,
-            "jar": "https://sxcsdemo.github.io/2023.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
-        },
-        {
             "key": "找資源",
             "name": "找資源",
             "type": 3,
@@ -256,14 +215,6 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "https://sxcsdemo.github.io/lib/厂长资源.js"
-        },
-        {
-            "key": "南瓜",
-            "name": "南瓜┃影视",
-            "type": 3,
-            "api": "csp_NanGua",
-            "searchable": 1,
-            "changeable": 1
         },
         {
             "key": "鲲娱七七",
