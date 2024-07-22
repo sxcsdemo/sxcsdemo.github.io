@@ -579,15 +579,30 @@
             "ext": "https://sxcsdemo.github.io/lib/52看剧.json",
             "jar": "https://sxcsdemo.github.io/lib/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
         },
-        {
-            "key": "310直播",
-            "name": "⚽310┃看球",
-            "type": 3,
-            "api": "https://sxcsdemo.github.io/lib/drpy2.min.js",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://sxcsdemo.github.io/lib/310直播.js"
-        },
+{
+    "key": "黑狐",
+    "name": "🦊┃黑狐┃影视",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1,
+    "playerType": "2",
+    "api": "csp_XBPQ",
+    "ext": { "站名": "黑狐影院",
+        "主页url": "http://fagmn.com",
+        "数组": "class=\"stui-vodlist__box\"&&&&",
+        "搜索url": "http://fagmn.com/search.php;post;searchword={wd}",
+        "搜索模式": "1", "搜索数组": "", "搜索图片": "data-original=\"&&\"",
+        "搜索标题": "title=\"&&\"", "搜索链接": "href=\"&&\"",
+        "搜索副标题": "&&", "搜索后缀": "/view/",
+        "线路数组": "href=\"#down&&/a>[替换:奇异视频>>黑狐一线#优酷视频>>黑狐二线#搜狐视频>>黑狐三线#咪咕视频>>黑狐四线]",
+        "线路标题": ">&&<",
+        "播放数组": "class=\"stui-content__playlist clearfix&&",
+        "状态": "地区：&&", "导演": "导演：&&", "主演": "主演：&&",
+        "简介": "简介：&&", "播放列表": "", "播放标题": ">&&<", "播放链接": "href=\"&&\"",
+        "免嗅": "0", "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
+        "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time" }
+},
         {
             "key": "说明4",
             "name": "请勿相信视频中任何广告",
@@ -603,18 +618,23 @@
             "type": 3,
             "url": "Web"
         },
-        {
-            "name": "777",
-            "type": 0,
-            "url": "https://jx.777jiexi.com/player/?url="
+       { "name": "肥猫播放器",
+           "type": 1,
+           "url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=",
+           "ext": { "flag": [ "qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "tucheng", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "tnmb", "seven", "yzm", "aliyun", "RJuMao", "bilibili", "1905", "xinvip", "XAL", "qiqi", "XALS", "YuMi-vip" ] }
+       },
+        {"name":"麒麟播放器",
+        "type":0,
+        "url":"https://jx.quankan.app/?url=",
+        "ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
         },
         {
-            "name": "jsonplayer",
+            "name": "云解析",
             "type": 0,
-            "url": "https://jx.jsonplayer.com/player/?url="
+            "url": "https://jx.yparse.com/index.php?url="
         },
         {
-            "name": "xmflv",
+            "name": "虾米解析",
             "type": 0,
             "url": "https://jx.xmflv.com/?url="
         }
